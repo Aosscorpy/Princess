@@ -10,7 +10,7 @@
 
   <h1>A princess. Or is she?</h1>
 
-  <img src="assets/princess-or-not.png" alt="Princess picture">
+  <img src="princess-or-not.png" alt="Princess picture">
 
   <p>Hover over me.</p>
 
